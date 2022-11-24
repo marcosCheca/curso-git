@@ -1,0 +1,19 @@
+*   7be158b resolviendo el conflicto de ramas main/html al mismo archivo index.html
+|\  
+| * 979a171 agregando cambios desde la rama secundaria al index.html
+* | d9d8b21 agregando cambios desde main al index.html
+* | 0b44ca2 commit de los cambios de js
+* |   0f9e997 Merge branch 'js'
+|\ \  
+| * | 686beb2 creando script.js
+* | | 20d6754 primer cambio en style.css
+* | | 56581da creando style.css
+| |/  
+|/|   
+* | d62569e incluyendo el index.html
+|/  
+* 9e71b21 ignorando los archivos .exe
+* ca4d4be creando licencia para el repositorio
+* cd032d9 Segundo commit con cambios
+* cb1130e Segundo commit después de los cambios
+* ef23d0c First commit :)
